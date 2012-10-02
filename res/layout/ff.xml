@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <ImageView xmlns:android="http://schemas.android.com/apk/res/android"
+      android:id="@+id/imageItem"
+      android:layout_width="138dp"
+      android:layout_height="91dp"
+      android:scaleType="fitCenter" />

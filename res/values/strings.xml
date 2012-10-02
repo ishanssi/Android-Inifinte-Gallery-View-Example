@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, ReusableLayoutActivityActivity!</string>
+    <string name="app_name">ReusableLayoutActivity</string>
+    <string name="btn1">Button One</string>
+    <string name="btn2">Button Two</string>
+    <string name="btn3">Button three</string>
+    <string name="btn4">Button four</string>
+    <string name="back">Back</string>
+    <string name="unknow">Unkown</string>
+    <string name="title">Title</string>
+    <string name="map">ShowMap</string>
+
+</resources>
